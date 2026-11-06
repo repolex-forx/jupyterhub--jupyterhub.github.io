@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/jupyterhub.github.io/commit/12fcc920d1d350a6d0b0d9e87ecca115319708a7",
       "git:hexsha": "12fcc920d1d350a6d0b0d9e87ecca115319708a7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
